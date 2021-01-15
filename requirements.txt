@@ -1,0 +1,11 @@
+# Voici la liste des librairies nécessaires à l'exécution de notre programme
+
+import nltk
+from nltk.corpus import stopwords
+import datetime as dt
+import pickle 
+import re
+import pandas
+import praw
+import urllib.request
+import xmltodict 
